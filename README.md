@@ -3,17 +3,17 @@
 #Рабочие программы
 
 https://vivaldi.com/ru/ Vivaldi <br>
-https://code.visualstudio.com/download vsCode
-https://ospanel.io/download/ openServer
-https://www.figma.com/downloads/ Figma
-https://www.filezilla.ru/get/ filezilla
-https://4ebur.net cheburnet
-https://www.teamviewer.com/ru/info/free-for-personal-use/ teamviewer
-https://zoom.us/ru/download zoom
-https://anydesk.com/ru/downloads/windows anydesk
-https://nodejs.org/en/download nodejs
-https://react-cn.github.io/react/downloads.html react
-https://telegram.org/desktop telegram
+https://code.visualstudio.com/download vsCode <br>
+https://ospanel.io/download/ openServer <br>
+https://www.figma.com/downloads/ Figma <br>
+https://www.filezilla.ru/get/ filezilla <br>
+https://4ebur.net cheburnet <br>
+https://www.teamviewer.com/ru/info/free-for-personal-use/ teamviewer <br>
+https://zoom.us/ru/download zoom <br>
+https://anydesk.com/ru/downloads/windows anydesk <br>
+https://nodejs.org/en/download nodejs <br>
+https://react-cn.github.io/react/downloads.html react <br>
+https://telegram.org/desktop telegram <br>
 
 #Игры
 
