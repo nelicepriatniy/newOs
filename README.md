@@ -2,7 +2,7 @@
 
 #Рабочие программы
 
-https://vivaldi.com/ru/ Vivaldi br
+https://vivaldi.com/ru/ Vivaldi <br>
 https://code.visualstudio.com/download vsCode
 https://ospanel.io/download/ openServer
 https://www.figma.com/downloads/ Figma
