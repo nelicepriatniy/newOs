@@ -33,3 +33,4 @@ https://ardor-gaming.com/drivers/29377108/phantom+pro/ по мыш <br />
 https://red-square.org/keyrox-tkl.html по клава <br />
 https://geekuninstaller.com/download geek uninstaller <br />
 https://app.prntscr.com/ru/ lightShot <br />
+https://www.7-zip.org 7zip <br />
